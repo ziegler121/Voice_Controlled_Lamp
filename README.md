@@ -16,7 +16,7 @@ It is a quite a challenge for some Ghanaians to interact with technology due to 
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1uVqqHR5vstrgD_Zk-IEKRedFmwQf0Fuk/view?usp=share_link)
+![1image](https://user-images.githubusercontent.com/67509082/222711923-8335988c-3017-49cc-8375-c59c55299cb1.JPG)
 
 
 ## Authors
