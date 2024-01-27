@@ -17,7 +17,8 @@ I used it as a great reference material for my work.
 
 ## Authors
 
-- [@ziegler121](https://www.github.com/ziegler121)
+- Jeffrey Asiedu-Brako : [@ziegler121](https://www.github.com/ziegler121)
+- Gabriel Hammond <-- Collaborator : [@apcnkye7](https://github.com/apcnkye7)
 
 ## Things used in this project
 ### Hardware Components
