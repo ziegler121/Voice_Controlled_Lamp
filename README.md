@@ -22,7 +22,7 @@ I used it as a great reference material for my work.
 
 ## Things used in this project
 ### Hardware Components
-- [Arduino Nano 33 BLE Sense](https://www.github.com/ziegler121)
+- [Arduino Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense/)
 - Lamp
 - 5V Relay
 - Breadboard
